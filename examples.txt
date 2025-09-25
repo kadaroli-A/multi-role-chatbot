@@ -1,0 +1,17 @@
+# Example Conversations with Multi-role Chatbot
+
+Role: student  
+Message: "What is Python?"  
+Reply: 📘 Student mode: I can help you with learning. You asked: What is Python?
+
+---
+
+Role: teacher  
+Message: "Explain Artificial Intelligence."  
+Reply: 👨‍🏫 Teacher mode: Let me explain. You asked: Explain Artificial Intelligence.
+
+---
+
+Role: support  
+Message: "My laptop is not working."  
+Reply: 💡 Support mode: I will try to solve your issue. You asked: My laptop is not working.
