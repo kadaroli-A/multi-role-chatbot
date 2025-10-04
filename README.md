@@ -22,3 +22,12 @@ pip install -r requirements.txt
 
 3. Run the chatbot:
 python chatbot.py
+
+---
+
+## Author
+**Kadar Oli A**  
+B.E. Electronics and Communication Engineering (ECE)  
+Anna University, Tamil Nadu  
+📧 ma3829767@gmail.com  
+📞 8778010788
