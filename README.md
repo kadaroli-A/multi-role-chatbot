@@ -1,15 +1,24 @@
-# Multi-role Chatbot 🤖
+# Multi-Role Chatbot 🤖
 
-This is a simple **Multi-role Chatbot** built in Python.  
-The chatbot can take different roles (like Student, Teacher, or Support Agent) and reply accordingly.  
+This is a chatbot project that can act as a:
+- Teacher 👨‍🏫
+- Lawyer ⚖️
+- Travel Agent ✈️
+- Personal Assistant 📒
 
 ## Features
-- Multiple roles for conversation  
-- Easy to expand with new roles  
-- Python-based  
+- Explains academic concepts in bullet points
+- Provides legal explanations in JSON format
+- Suggests travel places in table format
+- Acts politely as a personal assistant
 
 ## How to Run
-1. Install Python 3.  
-2. Run the chatbot:
+1. Clone the repository:
    ```bash
-   python chatbot.py
+   git clone https://github.com/kadaroli-A/multi-role-chatbot.git
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run the chatbot:
+python chatbot.py
